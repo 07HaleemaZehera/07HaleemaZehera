@@ -6,11 +6,10 @@
 <!-- ![This is an image](https://image.shutterstock.com/image-vector/set-web-development-doodles-vector-260nw-1305828340.jpg) -->
 <!-- ![GIF](https://github.com/07HaleemaZehera/i.gifer.com/JXA0.gif) -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"> I'm Haleema Zehera</h1>
+<h1 align="center">Hi  I'm Haleema Zehera</h1>
 <p align="center">
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
-</p>
-<!-- <h3 align="center">--I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean and efficient code.</h3> -->
+
+<h3 align="center">--I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean and efficient code.</h3>
 <!-- ![This is an image](https://image.shutterstock.com/image-vector/set-web-development-doodles-vector-260nw-1305828340.jpg) -->
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/> -->
 <!-- <img src="https://your-image-url.type" width="100" height="100" align="right>  -->
