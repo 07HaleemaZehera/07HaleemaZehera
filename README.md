@@ -6,7 +6,7 @@
 <!-- ![This is an image](https://image.shutterstock.com/image-vector/set-web-development-doodles-vector-260nw-1305828340.jpg) -->
 <!-- ![GIF](https://github.com/07HaleemaZehera/i.gifer.com/JXA0.gif) -->
 
-<h1 align="center">Hi  I'm Haleema Zehera</h1>
+<h1 align="center">Hi 👋 I'm Haleema Zehera</h1>
 <p align="center">
 
 <h3 align="center">--I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean and efficient code.</h3>
