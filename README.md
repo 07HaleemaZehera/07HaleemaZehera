@@ -2,11 +2,11 @@
 
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ6juiEytQXtzysPqdd_Xb1N-DQc0NvHl3Bw&usqp=CAU" width="1000" height="400"> 
  
-<!--   <img src="https://gifer.com/JXA0.gif" width="1000" height="400">  -->
+<!--   <img src="https://gifer.com/JXA0.gif" width="1000" height="400" alt="nothing>  -->
 <!-- ![This is an image](https://image.shutterstock.com/image-vector/set-web-development-doodles-vector-260nw-1305828340.jpg) -->
 <!-- ![GIF](https://github.com/07HaleemaZehera/i.gifer.com/JXA0.gif) -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Haleema Zehera</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"> I'm Haleema Zehera</h1>
 <p align="center">
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
 </p>
