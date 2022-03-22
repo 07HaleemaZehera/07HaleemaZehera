@@ -10,6 +10,11 @@
 <p align="center">
 
 <h3 align="center">--I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean and efficient code.</h3>
+<h5>I have always been interested in science and technology, but only after my graduation did I become passionate about programming. In a series of coincidences, I came across Masai School. When I saw their course structure, I became fascinated with the balance between theoretical knowledge and hands-on practical experience.
+
+That's when I began my journey towards becoming a full stack web developer. Currently, I have expertise in HTML, CSS, and JavaScript. Additionally, I am well-versed in Node.js, Express, MongoDb, Data Structures and Algorithms.
+
+As much as I am passionate about coding, I am also a problem solver, a quick learner, with a flexible mindset.</h5>
 <!-- ![This is an image](https://image.shutterstock.com/image-vector/set-web-development-doodles-vector-260nw-1305828340.jpg) -->
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/> -->
 <!-- <img src="https://your-image-url.type" width="100" height="100" align="right>  -->
