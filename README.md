@@ -20,13 +20,13 @@ As much as I am passionate about coding, I am also a problem solver, a quick lea
 <!-- <img  src="https://i.gifer.com/JXA0.gif" align="right" alt="coding" width="400"/> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=07haleemazehera&label=Profile%20views&color=0e75b6&style=flat" alt="07haleemazehera" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Worked as  Software Engineer, **Full stack MEAN**(2 years)
 
 - 💬 Ask me about **MERN,**
 
 - 📫 How to reach me **hzehera07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14ABGJy9y_vWUVf7RwJdINl2oIcAKeShv/view?usp=sharing](https://drive.google.com/file/d/14ABGJy9y_vWUVf7RwJdINl2oIcAKeShv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17vkKsAvVbQUAO8PrGr5d_MsN9l2zE_Oz/view?usp=drive_link](https://drive.google.com/file/d/17vkKsAvVbQUAO8PrGr5d_MsN9l2zE_Oz/view?usp=drive_link)
 
 - ⚡ Fun fact **--A Software Engineer--** 
 
