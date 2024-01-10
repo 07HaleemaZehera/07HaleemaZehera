@@ -1,6 +1,6 @@
 
 
- <img src="https://cdn2.vectorstock.com/i/1000x1000/55/56/programming-web-banner-vector-26895556.jpg" width="1000" height="600"> 
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fmuslim-developer-girl.html&psig=AOvVaw3aoUDu3o4L1oduRNCNTu7x&ust=1704947731906000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDokLj_0YMDFQAAAAAdAAAAABAD" width="1000" height="600"> 
  
 <!--   <img src="https://gifer.com/JXA0.gif" width="1000" height="400" alt="nothing>  -->
 <!-- ![This is an image](https://image.shutterstock.com/image-vector/set-web-development-doodles-vector-260nw-1305828340.jpg) -->
@@ -9,9 +9,7 @@
 <h1 align="center">Hi 👋 I'm Haleema Zehera </h1>
 <p align="center">
 
-<h3 align="center">--I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean and efficient code.</h3>
-<h5><center>I have always been interested in science and technology, but only after my graduation did I become passionate about programming. In a series of coincidences, I came across Masai School. When I saw their course structure, I became fascinated with the balance between theoretical knowledge and hands-on practical experience. That's when I began my journey towards becoming a full stack web developer. Currently, I have expertise in HTML, CSS, and JavaScript. Additionally, I am well-versed in Node.js, Express, MongoDb, Data Structures and Algorithms.
-As much as I am passionate about coding, I am also a problem solver, a quick learner, with a flexible mindset.</center></h5>
+<h3 align="center"> **A Full stack web developer and well-versed in MERN / MEAN stack, along with a knack of building applications with utmost efficiency. As much as I am passionate about coding, I am also a problem solver, a quick learner with a flexible mindset. I would like to work in an organization that offers opportunities to enhance my professional skills and help me grow and develop alongwith it.**</center></h5>
 <!-- ![This is an image](https://image.shutterstock.com/image-vector/set-web-development-doodles-vector-260nw-1305828340.jpg) -->
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/> -->
 <!-- <img src="https://your-image-url.type" width="100" height="100" align="right>  -->
